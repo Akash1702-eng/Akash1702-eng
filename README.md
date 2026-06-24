@@ -81,12 +81,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akash1702-eng&show_icons=true&theme=tokyonight&hide_border=true" alt="Akash's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash1702-eng&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Akash1702-eng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c6ff7&icon_color=5dcaa5&text_color=c9d1d9&border_radius=12" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash1702-eng&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c6ff7&text_color=c9d1d9&border_radius=12" width="40%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash1702-eng&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash1702-eng&theme=tokyonight&hide_border=true&background=0d1117&ring=7c6ff7&fire=5dcaa5&currStreakLabel=5dcaa5&border_radius=12"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash1702-eng&theme=react-dark&hide_border=true&color=7c6ff7&line=5dcaa5&point=ef9f27&area=true&area_color=7c6ff7"/>
 </p>
 
 ---
