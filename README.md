@@ -29,7 +29,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech in **CSE (AI & ML)** at **Vishwakarma Institute of Technology, Pune**
-- 📍 Based in **Ahmednagar, Maharashtra, India**
+- 📍 Based in **Pune, Maharashtra, India**
 - 🤖 Passionate about **Machine Learning**, **Deep Learning**, **Generative AI**, and **Agentic AI**
 - 🏗️ I build data-driven, intelligent systems that solve real-world problems
 - 💡 Strong believer in proactive problem-solving and continuous learning
